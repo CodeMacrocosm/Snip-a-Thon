@@ -3,6 +3,8 @@
 ![Hacktoberfest 2021](https://img.shields.io/badge/Hacktoberfest-2021-purple)
 
 
+<p align="center" style="background-color: #57283e;"><img src="https://github.com/CodeMacrocosm/Devathon/blob/main/images/hacktoberfest21.svg"></p>
+
 # Your Favorite Code Snippet
 Collection of code snippets that can be anything from _hello world_ to _Complex Algo & DS_ (In any programming language).
 
