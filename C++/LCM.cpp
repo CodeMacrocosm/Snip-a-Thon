@@ -1,18 +1,29 @@
-#include <stdio.h>
-int main() {
-    int n1, n2, max;
-    printf("Enter two positive integers: ");
-    scanf("%d %d", &n1, &n2);
+#include <iostream>
+using namespace std;
 
-    // maximum number between n1 and n2 is stored in max
+int main()
+{
+    int n1, n2, max;
+
+    cout << "Enter two numbers: ";
+    cin >> n1 >> n2;
+    
+    // maximum value between n1 and n2 is stored in max
     max = (n1 > n2) ? n1 : n2;
 
-    while (1) {
-        if (max % n1 == 0 && max % n2 == 0) {
-            printf("The LCM of %d and %d is %d.", n1, n2, max);
-            break;   
+    do
+    {
+        if (max % n1 == 0 && max % n2 == 0)
+        {
+            cout << "LCM = " << max;
+            break;
         }
-        ++max;
-    }
+        else
+            ++max;
+    } while (true);
+    
     return 0;
 }
+    
+
+   
