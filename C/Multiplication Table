@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main(){
+	int a,b,c=1;
+	printf("-*-Multiplication Table-*-\n\n");
+
+	printf("  Enter the no. : ");
+	scanf("%d",&a);
+	printf("\n");
+	while(c<=10)
+	{
+		b=a*c;
+		printf("  %d * %d = %d\n",a,c,b);
+		c++;
+	}
+		
+  return 0;
+}
