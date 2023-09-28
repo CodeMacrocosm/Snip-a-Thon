@@ -86,7 +86,7 @@ def Fibonacci(n):
 print(Fibonacci(100))
 ```
 
-Happy coding! 👨‍💻👩‍💻
+
 
 ## ⭐ Star It
 
@@ -100,6 +100,38 @@ MIT License
 
 Copyright (c) 2021 CodeMacrocosm
 
+
+## 👩‍💻 Contributors
+
+- [chandrasangna](https://github.com/chandrasangna)
+- [shruthi-kotawar](https://github.com/shruthi-kotawar)
+- [niharikaponugoti](https://github.com/niharikaponugoti)
+- [Anwarali143](https://github.com/Anwarali143)
+- [prakash-sah-lab](https://github.com/prakash-sah-lab)
+- [MittapallyPoojaReddy](https://github.com/MittapallyPoojaReddy)
+- [EhDattavallabh](https://github.com/EhDattavallabh)
+- [praneeth2yadav](https://github.com/praneeth2yadav)
+- [Mounikakongara](https://github.com/Mounikakongara)
+- [shanbinary](https://github.com/shanbinary)
+- [kittu2karthik](https://github.com/kittu2karthik)
+- [gracebewithyou](https://github.com/gracebewithyou)
+- [aniketprabhakar](https://github.com/aniketprabhakar)
+- [PRINCECHANDAPILLAI](https://github.com/PRINCECHANDAPILLAI)
+- [gangothrim711](https://github.com/gangothrim711)
+- [shebacarolyn](https://github.com/shebacarolyn)
+- [Rashmildp](https://github.com/Rashmildp)
+- [gdsghost](https://github.com/gdsghost)
+- [karr007](https://github.com/karr007)
+- [RD91](https://github.com/RD91)
+- [salmanprottoy](https://github.com/salmanprottoy)
+- [ShashankJais128](https://github.com/ShashankJais128)
+- [kishorkrishnak](https://github.com/kishorkrishnak)
+- [Chayan-11](https://github.com/Chayan-11)
+- [BasicNik](https://github.com/BasicNik)
+- [piyushdhir1](https://github.com/piyushdhir1)
+- [nithishrcta](https://github.com/nithishrcta)
+
+Thank you to all the contributors for their valuable contributions to the project! 🌟
 
 ---
 
