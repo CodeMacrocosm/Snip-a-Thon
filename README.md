@@ -1,12 +1,52 @@
-# Snip-a-Thon' 21 - "Code Enthusiasts' Showcase: Share Your Beloved Code Gems!" 💻✨🌟 💻
 
-[![Contributors](https://img.shields.io/badge/Contributors-28-brightgreen.svg)]()
 
-[![Forks](https://img.shields.io/badge/Forks-31-blue.svg)]()
+<div align="center">
 
-[![Stars](https://img.shields.io/badge/Stars-9-yellow.svg)]()
+# ✨ Snip-a-Thon' 21 🌟: Beloved Snippet Gems!" 💻
 
-Welcome! 🎉 Here, we celebrate our love for coding by sharing our favorite code snippets in various programming languages. Whether it's a simple "Hello, World!" program or a complex algorithm or data structure, this contest which is hosted by Shreya Malogi is the perfect place to showcase your coding passion. 🚀
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Snip-a-Thon-21/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Snip-a-Thon-21?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Snip-a-Thon-21/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Snip-a-Thon-21?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Snip-a-Thon-21/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Snip-a-Thon-21.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Snip-a-Thon-21" alt="GitHub">
+</p>
+
+<div align="center">
+
+### ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Snip-a-Thon-21/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Snip-a-Thon-21" />
+</a>
+
+</div>
+
+
+
+
+### Table of Contents 📚
+
+1. [Overview](#overview)
+2. [Project Structure](https://github.com/CodeMacrocosm/Snip-a-Thon-21/edit/main/README.md#project-structure)
+3. [How to Contribute?](#how-to-contribute)
+4. [Star it](#how-to-star-)
+5. [License](#-license)
+6. [Thanks Contributors](#contributors-)
+
+---
+
+
+### Overview
+Welcome! 🎉 Here, we celebrate our love for coding by sharing our favorite code snippets in various programming languages. Whether it's a simple "Hello, World!" program or a complex algorithm or data structure, this contest which is hosted by **Shreya Malogi**, is the perfect place to showcase your coding passion. 🚀
 
 
 ### Project Structure
@@ -24,9 +64,9 @@ Here's a quick overview of the project structure:
 - `LICENSE` - The project's license file
 - `README.md` - You are here!
 
-## How to Contribute 🤝
+## How to Contribute 
 
-We encourage you to contribute your favorite code snippets to this repository. It's a great way to share your knowledge and learn from others. Follow these steps to make your contribution:
+We encourage you to contribute your favorite code snippets to this repository. It's a great way to share your knowledge and learn from others. Follow these steps to make your contribution:🤝
 
 ### 1. Fork the Repository
 
@@ -37,7 +77,7 @@ Click the "Fork" button at the top right corner of this repository to create you
 Clone the forked repository from your account to your local machine:
 
 ```bash
-git clone https://github.com/shreyamalogi/Snip-a-Thon-21.git
+git clone https://github.com/codemacrocosm/Dev-a-Thon-21.git
 ```
 
 ### 3. Add Your Code Snippet
@@ -88,50 +128,31 @@ print(Fibonacci(100))
 
 
 
-## ⭐ Star It
+## How to Star ⭐
 
-If you found this helpful and fun, don't forget to give it a star ⭐ to show your appreciation and support!
+If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
 MIT License
 
 Copyright (c) 2021 CodeMacrocosm
 
 
-## 👩‍💻 Contributors
 
-- [chandrasangna](https://github.com/chandrasangna)
-- [shruthi-kotawar](https://github.com/shruthi-kotawar)
-- [niharikaponugoti](https://github.com/niharikaponugoti)
-- [Anwarali143](https://github.com/Anwarali143)
-- [prakash-sah-lab](https://github.com/prakash-sah-lab)
-- [MittapallyPoojaReddy](https://github.com/MittapallyPoojaReddy)
-- [EhDattavallabh](https://github.com/EhDattavallabh)
-- [praneeth2yadav](https://github.com/praneeth2yadav)
-- [Mounikakongara](https://github.com/Mounikakongara)
-- [shanbinary](https://github.com/shanbinary)
-- [kittu2karthik](https://github.com/kittu2karthik)
-- [gracebewithyou](https://github.com/gracebewithyou)
-- [aniketprabhakar](https://github.com/aniketprabhakar)
-- [PRINCECHANDAPILLAI](https://github.com/PRINCECHANDAPILLAI)
-- [gangothrim711](https://github.com/gangothrim711)
-- [shebacarolyn](https://github.com/shebacarolyn)
-- [Rashmildp](https://github.com/Rashmildp)
-- [gdsghost](https://github.com/gdsghost)
-- [karr007](https://github.com/karr007)
-- [RD91](https://github.com/RD91)
-- [salmanprottoy](https://github.com/salmanprottoy)
-- [ShashankJais128](https://github.com/ShashankJais128)
-- [kishorkrishnak](https://github.com/kishorkrishnak)
-- [Chayan-11](https://github.com/Chayan-11)
-- [BasicNik](https://github.com/BasicNik)
-- [piyushdhir1](https://github.com/piyushdhir1)
-- [nithishrcta](https://github.com/nithishrcta)
+## Contributors 🙌
 
-Thank you to all the contributors for their valuable contributions to the project! 🌟
+A big thanks to all the creative minds who have contributed.
+
+Now, let the creation begin! 🎨
+
+Happy coding! 🚀🎉
+
+## Happy Hacking! 🎃👾
+
+
 
 ---
 
