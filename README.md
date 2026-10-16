@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ✨ Snip-a-Thon' 21 : Snippet Gems! 💻
+# ✨ Snip-a-Thon 21 : Snippet Gems! 💻
 
 </div>
 <p align="center">
